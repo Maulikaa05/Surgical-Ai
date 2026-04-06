@@ -1,4 +1,4 @@
-# 🔬 SurgicalAI v3
+# 🔬 SurgicalAI 
 ### AI Arthroscopic Surgical Performance Evaluator
 **Ceaser's Medathon 2026 — Problem Statement #1**  
 *Dept. AI & Data Science · Coimbatore Institute of Technology*
